@@ -36,3 +36,14 @@ dd{
     cursor: pointer;
     background-color: #4bc76c;
 }
+.fonte{
+    font-size: 18px;
+    font-family: "Mulish", sans-serif;
+    text-align: center;
+}
+
+.imagem .ativo{
+    padding: 20px;
+    margin: auto;
+    border-radius: 8px;
+}
